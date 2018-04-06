@@ -1,0 +1,8 @@
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\bin\Debug\CotacaoMercadoBitcoin.exe.config
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\bin\Debug\CotacaoMercadoBitcoin.exe
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\bin\Debug\CotacaoMercadoBitcoin.pdb
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\bin\Debug\Newtonsoft.Json.dll
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\obj\Debug\CotacaoMercadoBitcoin.csprojResolveAssemblyReference.cache
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\obj\Debug\CotacaoMercadoBitcoin.csproj.CoreCompileInputs.cache
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\obj\Debug\CotacaoMercadoBitcoin.exe
+C:\Rafael\GitHub\CotacaoMercadoBitcoin\CotacaoMercadoBitcoin\obj\Debug\CotacaoMercadoBitcoin.pdb
